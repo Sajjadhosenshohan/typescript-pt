@@ -6,6 +6,7 @@
 // console.log(sum(2,7))
 
 
+
 function isDivisibleBy4And8(a:number):boolean{
     return a % 4 === 0 && a % 8 === 0 ;
 }
